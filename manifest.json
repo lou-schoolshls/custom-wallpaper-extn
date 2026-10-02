@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Permanent New Tab Wallpaper",
+  "version": "1.0",
+  "description": "Overrides the new tab page to lock in a custom wallpaper.",
+  "chrome_url_overrides": {
+    "newtab": "newtab.html"
+  }
+}
